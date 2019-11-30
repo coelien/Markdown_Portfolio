@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am good at **writing and communicating** in English, I won prizes in some competitions. Besides, I am *skilled* at **Java** and **SQL**, and i *completed* quite a lot programming projects using them. 
