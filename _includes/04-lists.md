@@ -6,3 +6,5 @@
 1. fuji mountain
 2. the GreatWall
 3. the Big Black Mountain
+   1. in Spring
+   2. in Aultumn
